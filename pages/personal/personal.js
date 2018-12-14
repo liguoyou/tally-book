@@ -22,7 +22,7 @@ Page({
 			aniamtion: false
 		});
 		
-		var url = 'http://localhost:8080/data/personal_data.json';
+		var url = app.globalData.httpGetUrl + 'personal_data.json';
 		utils.http_get(url, this.showPageData);
 	},
 

@@ -1,7 +1,8 @@
 //app.js
 App({
 	globalData: {
-		userInfos : null
+		userInfos : null,
+		httpGetUrl: 'http://localhost:8081/data/'
 	},
 	onLaunch: function (){
 		

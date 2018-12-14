@@ -1,5 +1,6 @@
 // pages/detail/detail.js
 const utils = require('../../utils/util.js');
+const app = getApp();
 Page({
 
 	/**
@@ -22,7 +23,7 @@ Page({
 			idex: idex,
 			idx: idx
 		});
-		var url = 'http://localhost:8080/data/tally_list_data.json';
+		var url = app.globalData.httpGetUrl + 'tally_list_data.json';
 		utils.http_get(url, this.getDetail);
 	},
 

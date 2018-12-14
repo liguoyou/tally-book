@@ -1,5 +1,6 @@
 // pages/account/account.js
 const utils = require('../../utils/util.js');
+const app = getApp();
 Page({
 
 	/**
@@ -13,7 +14,7 @@ Page({
 	 * 生命周期函数--监听页面加载
 	 */
 	onLoad: function (options) {
-		var url = 'http://localhost:8080/data/account_data.json';
+		var url = app.globalData.httpGetUrl + 'account_data.json';
 		utils.http_get(url, this.showPageData);
 	},
 

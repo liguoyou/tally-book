@@ -1,5 +1,6 @@
 // pages/index/index.js
 const utils = require('../../utils/util.js');
+const app = getApp();
 Page({
 
     /**
@@ -39,7 +40,7 @@ Page({
         });
 
         //输出账单列表
-		var url = 'http://localhost:8080/data/tally_list_data.json';
+		var url = app.globalData.httpGetUrl + 'tally_list_data.json';
         utils.http_get(url, this.outPutList);
     },
 

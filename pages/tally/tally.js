@@ -1,5 +1,6 @@
 // pages/tally/tally.js
 const utils = require('../../utils/util.js');
+const app = getApp();
 Page({
 
     /**
@@ -26,11 +27,11 @@ Page({
         var toDayDate = utils.formatDate(new Date());
 
 		//获取类别数据
-		var categoryUrl = 'http://localhost:8080/data/category_data.json';
+		var categoryUrl = app.globalData.httpGetUrl + 'category_data.json';
 		utils.http_get(categoryUrl, this.getCategorys);
 
 		//获取账户
-		var accountUrl = 'http://localhost:8080/data/account_data.json';
+		var accountUrl = app.globalData.httpGetUrl + 'account_data.json';
 		utils.http_get(accountUrl, this.getAccounts);
 
 		this.setData({
