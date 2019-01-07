@@ -2,7 +2,7 @@
 App({
 	globalData: {
 		userInfos : null,
-		httpGetUrl: 'http://localhost:8081/data/'
+		httpGetUrl: 'http://192.168.0.14:8080/data/'
 	},
 	onLaunch: function (){
 		
