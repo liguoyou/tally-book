@@ -8,12 +8,8 @@
 
 当然我并没有就此放弃这个想法，我还是去做了，下面是小程序截图
 
-<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210019.jpg" width="280" />
-<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210030.jpg" width="280" />
-<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210056.jpg" width="280" />
-<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210103.jpg" width="280" />
-<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210109.jpg" width="280" />
-<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210112.jpg" width="280" />
-<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210142.jpg" width="280" />
-<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210147.jpg" width="280" />
-<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-21013781.jpg" width="280" />
+<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210019.jpg" width="280" /> <img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210030.jpg" width="280" /> <img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210056.jpg" width="280" />
+
+<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210103.jpg" width="280" /> <img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210109.jpg" width="280" /> <img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210112.jpg" width="280" />
+
+<img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210142.jpg" width="280" /> <img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-210147.jpg" width="280" /> <img src="https://gitee.com/liguoyou/tally-book/raw/master/screenshots/screenshotsS90107-21013781.jpg" width="280" />
